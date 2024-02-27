@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**NestaRizkia/NestaRizkia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Nesta Rizkia Saputra
 
-Here are some ideas to get you started:
+A college student in Informatics and Computer Engineering major at Polytechnic State of Bandung.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Expert In :
+Java programming languages, 
+C programming languages,
+Microsoft Word,
+Powerpoint and Google Slide,
+and Excel
+
+Now i am working on Proyek 1 : Pengembangan Perangkat Lunak Desktop
+
+              
+  
+                                                                 Contact Me
+
+                                                        email : bonesta30@gmail.com
