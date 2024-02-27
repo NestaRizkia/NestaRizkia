@@ -1,10 +1,11 @@
 ### Hello World 👋
+# Welcome to my Github
 
-I am Nesta Rizkia Saputra
+## About Me
+I am Nesta Rizkia Saputra is currently studying Informatics and Computer Engineering at Polytechnic State of Bandung, 
+demonstrating a genuine interest in technology and innovation.
 
-A college student in Informatics and Computer Engineering major at Polytechnic State of Bandung.
-
-Expert In :
+## Expert In :
 Java programming languages, 
 C programming languages,
 Microsoft Word,
@@ -15,7 +16,7 @@ Now i am working on Proyek 1 : Pengembangan Perangkat Lunak Desktop
 
               
   
-**Contact Me**
+## Contact
 
 email : [bonesta30@gmail.com](mailto:bonesta30@gmail.com)
 
