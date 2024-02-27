@@ -15,8 +15,7 @@ Now i am working on Proyek 1 : Pengembangan Perangkat Lunak Desktop
 
               
   
-                                                               **Contact Me**
+**Contact Me**
 
-                                                        email : [bonesta30@gmail.com]
-                                                        (mailto:bonesta30@gmail.com)
+email : [bonesta30@gmail.com](mailto:bonesta30@gmail.com)
 
