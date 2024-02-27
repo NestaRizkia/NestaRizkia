@@ -6,15 +6,17 @@ I am Nesta Rizkia Saputra is currently studying Informatics and Computer Enginee
 demonstrating a genuine interest in technology and innovation.
 
 ## Expert In :
-Java programming languages, 
-C programming languages,
-Microsoft Word,
-Powerpoint and Google Slide,
-and Excel
+- Java programming languages
+- C programming languages
+- Microsoft Word
+- Powerpoint and Google Slide
+-  Excel
 
-Now i am working on Proyek 1 : Pengembangan Perangkat Lunak Desktop
+## Project 
+I have contributed to some project :
+ - TicTacToe in C Languages
+ - Making many PowerPoint
 
-              
   
 ## Contact
 
