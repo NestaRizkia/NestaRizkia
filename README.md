@@ -15,7 +15,8 @@ demonstrating a genuine interest in technology and innovation.
 ## Project 
 I have contributed to some project :
  - TicTacToe in C Languages
- - Making many PowerPoint
+ - Sandi Morse APP in C language
+ - Scraping Data in phyton
 
   
 ## Contact
